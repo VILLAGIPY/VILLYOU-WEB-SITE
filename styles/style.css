@@ -27,9 +27,6 @@ img {
   display: block;
   margin: 0 auto;
 }
-a {
-  color: red;
-}
 button{
   cursor: pointer; 
 }
@@ -91,9 +88,27 @@ img{
 
 
 .box_oval {
-  margin-top: 150px; 
+  margin-bottom: 60px;
+  margin-top: 30px; 
   border-radius: 10px;
   border: 2px solid black;
+}
+.knopka{
+  border: 2px solid lime;
+  color: white;
+  background-color: black;
+}
+.knopka2{
+  border: 2px solid lime;
+  color: white;
+  background-color: black;
+  margin-left: 130px;
+}
+.knopka3{
+  border: 2px solid lime;
+  color: white;
+  background-color: black;
+  margin-left: 185px;
 }
 .box_IP {
   margin: -11px;
