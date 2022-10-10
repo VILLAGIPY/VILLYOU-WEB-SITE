@@ -1,0 +1,95 @@
+p{
+  color: black;
+  text-align: center;
+}
+html {
+  font-size: 25px;
+  font-family: monospace;
+  background-image: url(https://aduvan.ru/wp-content/uploads/2020/07/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD-%D0%BC%D0%B0%D0%BB-2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+a {
+  color: red;
+}
+button{
+  cursor: pointer; 
+}
+img{
+  cursor: pointer;
+}
+/*
+  ----------------------------------------------------------------------ЦВЕТА----------------------------------------------------------------------
+*/
+.red{
+  color: red;
+}
+
+.gold {
+  color: gold;
+}
+.silver{
+  color: silver;
+}
+.gray{
+  color: gray;
+}
+.white{
+  color: white;
+}
+.maroon{
+  color: maroon;
+}
+.purple{
+  color: purple;
+}
+.fuchsia{
+  color: fuchsia;
+}
+.green{
+  color: green;
+}
+.lime{
+  color: lime;
+}
+.olive{
+  color: olive;
+}
+.yellow{
+  color: yellow;
+}
+.navy{
+  color: navy;
+}
+.blue{
+  color: blue;
+}
+.teal{
+  color: teal;
+}
+.aqua{
+  color: aqua;
+}
+
+
+.box {
+  border: 2px solid blue;
+}
