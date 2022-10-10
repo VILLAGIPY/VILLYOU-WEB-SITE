@@ -90,6 +90,15 @@ img{
 }
 
 
-.box {
-  border: 2px solid blue;
+.box_oval {
+  margin-top: 150px; 
+  border-radius: 10px;
+  border: 2px solid black;
+}
+.box_IP {
+  margin: -11px;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: teal;
+  background-color: white;
 }
